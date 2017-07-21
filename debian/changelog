@@ -1,5 +1,5 @@
 speechrecognition (3.6.3-1) UNRELEASED; urgency=medium
 
-  * Initial Debian packaging
+  * Initial Debian packaging (closes: #869108)
 
  -- Mycroft Devs <devops@mycroft.ai>  Mon, 17 Jul 2017 12:53:40 -0500
